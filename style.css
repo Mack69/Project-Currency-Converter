@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding: 10px;
+  width: 30%;
+  height: 100%;
+  border: solid;
+  margin-left: 35%;
+  margin-top: 100px;
+  border-radius: 40px;
+}
+.converter {
+  border: solid;
+  margin: 20px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.search input {
+  width: 100%;
+}
